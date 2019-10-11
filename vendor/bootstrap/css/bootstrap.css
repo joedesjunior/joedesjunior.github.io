@@ -6517,6 +6517,10 @@ button.bg-primary:focus {
   background-color: #0062cc !important;
 }
 
+.bg-color {
+  background-color: #3991dd !important;
+}
+
 .bg-secondary {
   background-color: #6c757d !important;
 }
@@ -6528,7 +6532,7 @@ button.bg-secondary:focus {
 }
 
 .bg-success {
-  background-color: #28a745 !important;
+  background-color: #72d332;
 }
 
 a.bg-success:hover, a.bg-success:focus,
@@ -9858,6 +9862,8 @@ a.text-primary:hover, a.text-primary:focus {
 
 .text-secondary {
   color: #6c757d !important;
+  font-family: verdana;
+  font-size: 300%;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
